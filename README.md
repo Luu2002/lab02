@@ -24,5 +24,6 @@ It was surprising to see "Video" and "Course" dominate the Python word cloud; th
 
 ### Link to download the CSV files
 [Intro to Python](assets/search-result-1.csv "Python")
+
 [Chinese Food](assets/search-result-2.csv "Chinese Food")
 
